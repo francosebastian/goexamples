@@ -1,2 +1,2 @@
 # goexamples
-Useful golang developer examples
+Useful GO examples to learn 
